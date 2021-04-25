@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [nmap-webui](https://github.com/Jiab77/nmap-webui), [libvirt-web](https://github.com/Jiab77/libvirt-web), [vuls-scripts](https://github.com/Jiab77/vuls-scripts) and [clamav-desktop](https://github.com/Jiab77/clamav-desktop)
+- 🌱 I’m currently learning __Python__
+- 👯 I’m looking to collaborate on __security / hacking projects__
+- 📫 How to reach me: [Twitter](https://twitter.com/jiab77)
