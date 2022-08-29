@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <h3 align="left">Some stats about me?</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=jiab77&show_icons=true&count_private=true&theme=tokyonight&custom_title=Personal Stats&line_height=24&border_color=30363d" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiab77&langs_count=8&theme=tokyonight&layout=compact&border_color=30363d" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=jiab77&show_icons=true&count_private=true&theme=cobalt&custom_title=Personal Stats&line_height=24&border_color=30363d" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiab77&langs_count=8&theme=cobalt&layout=compact&border_color=30363d" /></a>
 </p>
