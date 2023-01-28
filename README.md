@@ -26,13 +26,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on __security / hacking__ related projects
 - 📫 You can reach me via [Twitter](https://twitter.com/jiab77)
 
-<!-- <h3 align="left">Some stats about me?</h3> -->
+<h3 align="left">Some stats about me?</h3>
 
 <p align="center">
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=jiab77&show_icons=true&count_private=true&theme=tokyonight&custom_title=Personal Stats&line_height=24&border_color=30363d" /></a>
   -->
-  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiab77&langs_count=8&theme=tokyonight&layout=compact&border_color=30363d" /></a>
-  -->
 </p>
