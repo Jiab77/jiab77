@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi there 👋, I'm Doctor Who</h2>
-<h3 align="center">Just a nerd lost on the Internet.</h3>
+<h3 align="center">Just a ghost on the Internet.</h3>
 <br>
 <h3 align="left">What am I doing over here?</h3>
 
