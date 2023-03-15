@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 - 👯 I’m happy to collaborate on __security / hacking__ related projects
 - 📫 You can reach me via [Twitter](https://twitter.com/jiab77) and [Mastodon](https://ioc.exchange/@jiab77)
 
+<h3 align="left">Want to support me or my projects?</h3>
+
+Feel free to donate anything you want to the following addresses:
+
+- Zcash (ZEC): `zs1xsfqke5t8ae0e8g4g2f6r5v5x3edlx6lucn8wx5kfkmarw6k9aunzeaa9mudt2d6wlct6prwf27`
+- Bitcoin (BTC): `bc1q0e7clh7uhnrsq6h9zrxuzywwhll3zst0yne6ul`
+- Ethereum (ETH): `0x36c98A94e9c8a79Ae172f0CF87882f62cAebFF98`
+
 <h3 align="left">Some stats about me?</h3>
 
 <p align="center">
