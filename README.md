@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 Feel free to donate anything you want to the following addresses:
 
-- Zcash (ZEC): `zs1xsfqke5t8ae0e8g4g2f6r5v5x3edlx6lucn8wx5kfkmarw6k9aunzeaa9mudt2d6wlct6prwf27`
+- Zcash (ZEC): `zs1gxagfs2ah6gvp0jwwku3wj5qdh2je9e7thuymm6ztsd9f98k38flh6wqa3dean9ardw5skvenh3`
 - Bitcoin (BTC): `bc1q0e7clh7uhnrsq6h9zrxuzywwhll3zst0yne6ul`
 - Ethereum (ETH): `0x36c98A94e9c8a79Ae172f0CF87882f62cAebFF98`
 
