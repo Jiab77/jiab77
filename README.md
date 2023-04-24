@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 
 Feel free to donate anything you want to the following addresses:
 
-- Dash: `Xvn5voYZRwHuGzJCbAeCo5e9Zi5A4ECEJP`
-- Zcash (ZEC): `zs1e2zh2pudrrghqjhuy3cf3sypt4dm7e47cw23zv4zhxn5t7pjsd9p8qulhsf58n3gvxgy703zwd7`
 - Bitcoin (BTC): `bc1q6ckl2sdayqt7vt4y8xq9cvxa6ldmdhc8plemdv`
 - Ethereum (ETH): `0x54e7328C44deEE18dD54d8AdC6eDdD762D9e8302`
+- Dash: `Xvn5voYZRwHuGzJCbAeCo5e9Zi5A4ECEJP`
+- Zcash (ZEC): `zs1e2zh2pudrrghqjhuy3cf3sypt4dm7e47cw23zv4zhxn5t7pjsd9p8qulhsf58n3gvxgy703zwd7`
+- XMR: `48c121XYUQiFqq1fpww97ZCkJGYj72vuJfiRohgL6ntr3C18a8ZQTr3eZzyQ8kDiYkL752YRaNSiPQk8AWqKBLU27ZwjDda`
 
 <h3 align="left">Some stats about me?</h3>
 
