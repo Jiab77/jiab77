@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for __remote work position__ 😉
 - 🌱 I’m willing to learn __Python__ and has some interests about also learning __Golang__ and __Rust__
 - 👯 I’m happy to collaborate on __security / hacking__ related projects
-- 📫 You can reach me via [Twitter](https://twitter.com/jiab77) and [Mastodon](https://ioc.exchange/@jiab77)
+- 📫 You can reach me via __Telegram__ and [Mastodon](https://ioc.exchange/@jiab77)
 
 <h3 align="left">Want to support me or my projects?</h3>
 
