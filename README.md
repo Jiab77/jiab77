@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 - 👯 I’m happy to collaborate on __security / hacking__ related projects
 - 📫 You can reach me via __Telegram__ and [Mastodon](https://ioc.exchange/@jiab77)
 
+<!--
+As nobody decided to donate for my projects,
+no reasons to keep them visible.
+
 <h3 align="left">Want to support me or my projects?</h3>
 
 Feel free to donate anything you want to the following addresses:
@@ -35,6 +39,7 @@ Feel free to donate anything you want to the following addresses:
 - Dash: `Xvn5voYZRwHuGzJCbAeCo5e9Zi5A4ECEJP`
 - Zcash (ZEC): `zs1e2zh2pudrrghqjhuy3cf3sypt4dm7e47cw23zv4zhxn5t7pjsd9p8qulhsf58n3gvxgy703zwd7`
 - XMR: `49UFMjWpZLcXHL4PbnFcvqXXQPqd5jqveXSAXXmeWJzABNbyxQMTeMwh9Q9Z2FhPYycTgzi9SCYMxHPcdWZq1RJm9Hehq6q`
+-->
 
 <h3 align="left">Some stats about me?</h3>
 
