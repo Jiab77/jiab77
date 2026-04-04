@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">What am I doing over here?</h3>
 
-<!--
-- 🔭 I’m currently working on [nmap-webui](https://github.com/Jiab77/nmap-webui), [libvirt-web](https://github.com/Jiab77/libvirt-web), [vuls-scripts](https://github.com/Jiab77/vuls-scripts) and [clamav-desktop](https://github.com/Jiab77/clamav-desktop)
--->
-- 🔭 I’m currently looking for __remote work position__ 😉
-- 🌱 I’m willing to learn __Python__ and has some interests about also learning __Golang__ and __Rust__
+- 🔭 I’m currently working on [Athena](https://github.com/Jiab77/athena)
+- 🌱 I’m willing to learn __Golang__ and __Rust__
 - 👯 I’m happy to collaborate on __security / hacking__ related projects
 - 📫 You can reach me via __Telegram__ if you can find me 😜
 
@@ -44,6 +41,12 @@ Feel free to donate anything you want to the following addresses:
 <h3 align="left">Some stats about me?</h3>
 
 <p align="center">
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=jiab77&show_icons=true&count_private=true&theme=tokyonight&custom_title=Personal%20Stats&line_height=24&border_color=30363d" /></a>
+  -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="./profile/stats.svg" /></a>
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiab77&langs_count=8&theme=tokyonight&layout=compact&border_color=30363d" /></a>
+  -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="./profile/top-langs.svg" /></a>
 </p>
