@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">What am I doing over here?</h3>
 
-- 🔭 I’m currently working on [Athena](https://github.com/Jiab77/athena)
+- 🔭 I’m currently working on the [AI Pipeline](https://github.com/Jiab77/ai-pipeline) project
 - 🌱 I’m willing to learn __Golang__ and __Rust__
 - 👯 I’m happy to collaborate on __security / hacking__ related projects
 - 📫 You can reach me via __Telegram__ if you can find me 😜
